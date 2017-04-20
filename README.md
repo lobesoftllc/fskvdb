@@ -1,2 +1,2 @@
 # fskvdb
-FSKVDB is fast key/value DB that can be used on embedded enviroment
+FSKVDB is fast key/value DB that can be used on tiny embedded enviroment
